@@ -1,0 +1,218 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+/* header section css*/
+.header{
+    display: flex;
+}
+.header-content{
+    width: 50%;
+    padding: 200px 100px 0px 200px;
+}
+.header-content h1{
+    border-left: 6px solid rgba(184, 5, 5, 0.89);
+    border-radius: 2px;
+    padding: 0px 0px 10px 5px;
+    font-size: 70px;
+}
+.header-content h1 span{
+    color: rgba(246, 154, 4, 0.705);
+}
+.header-content p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px 0px 20px 0px;
+    
+}
+.header-content a{
+    padding: 12px 30px;
+    background-color: rgba(240, 56, 10, 0.671);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    
+
+}
+.header-img{
+    width: 50%;
+    padding: 100px;
+}
+.header-img img{
+    height: 600px;
+    width: 600px;
+}
+/* mission section css */
+.mission-section h1{
+    font-size: 70px;
+    text-align: center;
+}
+.mission-section h1 span{
+    color: rgba(246, 154, 4, 0.705);
+
+}
+.mission-section p{
+    font-size: 20px;
+}
+.mission-list{
+    display: flex;
+    padding: 10px 200px 10px 200px;
+    
+}
+.mission-list img{
+    height: 200px;
+    width: 200px;
+}
+.mission{
+    width: 30%;
+    background-color: rgba(111, 189, 192, 0.294);
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+.vision{
+    width: 30%;
+    background-color: rgba(236, 122, 189, 0.294);
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 20px;
+    text-align: justify;
+
+}
+.goals{
+    width: 30%;
+    background-color: rgba(246, 219, 143, 0.267);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: justify;
+}
+/* develop without limit section css */
+.develop-without-limit-content{
+    display: flex;
+}
+.develop-without-limit-img{
+    width: 30%;
+    padding: 100px 80px 10px 200px;
+}
+.develop-without-limit-img img{
+    height: 400px;
+    width: 400px;
+}
+.develop-without-limit-text{
+    width: 70%;
+    padding: 100px 200px 10px 10px;
+}
+.develop-without-limit-text h1{
+    font-size: 50px;
+    margin-right: 200px;
+}
+.develop-without-limit-text p{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.develop-without-limit-text a{
+    padding: 12px 30px;
+    background-color: rgba(240, 56, 10, 0.671);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.knows-our-global-community-content{
+    display: flex;
+}
+.knows-our-global-community-text{
+    width: 65%;
+    padding: 100px 10px 20px 200px;
+}
+.knows-our-global-community-text h2{
+    font-size: 60px;
+}
+.knows-our-global-community-text p{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.knows-our-global-community-text a{
+    padding: 12px 30px;
+    background-color: rgba(240, 56, 10, 0.671);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.knows-our-global-community-img{
+    width: 35%;
+    padding: 100px 10px 20px 20px;
+}
+.knows-our-global-community-img img{
+    height: 400px;
+    width: 400px;
+}
+.avaiable h1{
+    font-size: 70px;
+    padding-left:200px;
+}
+.avaiable span{
+    color: rgba(246, 154, 4, 0.705);
+}
+.avaiable-item{
+    display: flex;
+    padding: 10px 50px 50px 200px;
+}
+.avaiable-item h2{
+    font-size: 40px;
+}
+.avaiable-item h4{
+    font-size: 25px;
+}
+.avaiable-item a{
+    padding: 12px 30px;
+    background-color: rgba(240, 56, 10, 0.671);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.fiver{
+    width: 30%;
+    background-color:rgba(111, 189, 192, 0.294); 
+    padding: 20px 0px 40px 40px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.upwork{
+    width: 30%;
+    background-color:rgba(236, 122, 189, 0.294);
+    padding: 20px 0px 40px 40px;
+    margin-right: 20px;
+    border-radius: 30px;
+
+
+
+}
+.freelancer{
+    width: 30%;
+    background-color:rgba(246, 219, 143, 0.267);
+    padding: 20px 0px 40px 40px;
+    border-radius: 30px;
+
+}
+/* footer css is here */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+   
+}
+footer h1{
+    font-size: 70px;
+}
+footer span{
+    color: rgba(246, 154, 4, 0.705);
+}
+footer p{
+    color: rgba(255, 255, 255, 0.609);
+}
